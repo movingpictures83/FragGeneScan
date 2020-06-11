@@ -1,0 +1,2 @@
+Prefix plugins/FragGeneScan/example/
+Plugin FragGeneScan inputfile output.contig.tmp outputfile output.contig.tmp.frag
